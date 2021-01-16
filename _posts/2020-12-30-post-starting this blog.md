@@ -1,5 +1,5 @@
 ---
-
+comments: true
 
 title:  "Starting this blog"
 categories:
