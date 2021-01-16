@@ -1,14 +1,14 @@
 ---
-#layout: default
-layout: categories
+
 author_profile: true
 comments: true
 
 title:  "Disqus test"
 categories:
-  - test
+  - Test
 tags:
   - test
+  - disqus
 ---
 
 # Disqus test
