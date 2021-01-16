@@ -6,7 +6,7 @@ comments: true
 
 title:  "Disqus test"
 categories:
-  - Test
+  - test
 tags:
   - test
 ---

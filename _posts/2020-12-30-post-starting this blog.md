@@ -3,7 +3,7 @@ comments: true
 
 title:  "Starting this blog"
 categories:
-  - blog
+  - Blog
 tags:
   - blog
   - blog theme
