@@ -1,6 +1,4 @@
 ---
-
-author_profile: true
 comments: true
 
 title:  "Disqus test"
